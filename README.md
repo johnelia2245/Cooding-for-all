@@ -32,5 +32,4 @@
 > - المهام يمكن أن تتداخل قليلاً حسب الحاجة، خصوصًا بين UI وWireframes.
 <br>
 <br>
-<h2>اسم المحاضر
-<h3>Mohamed Kamar
+<h2>اسم المحاضر: Mohamed Kamar
