@@ -1,6 +1,6 @@
 
 <h2>اسم المشروع</h2>
-<h3>Cooding for all
+<h3>CyberKid
 <br>
   <br>
 <h2>وصف المشروع</h2>
